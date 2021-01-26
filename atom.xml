@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wcg03.github.io/</id>
     <title>Gridea</title>
-    <updated>2021-01-26T15:24:20.925Z</updated>
+    <updated>2021-01-26T15:39:33.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wcg03.github.io/"/>
     <link rel="self" href="https://wcg03.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://wcg03.github.io/images/avatar.png</logo>
     <icon>https://wcg03.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[每天学点新东西]]></title>
+        <id>https://wcg03.github.io/post/mei-tian-xue-dian-xin-dong-xi/</id>
+        <link href="https://wcg03.github.io/post/mei-tian-xue-dian-xin-dong-xi/">
+        </link>
+        <updated>2021-01-26T15:26:06.000Z</updated>
+        <content type="html"><![CDATA[<p>msdn镜像网：<br>
+各种系统镜像下载<br>
+https://msdn.itellyou.cn/<br>
+https://next.itellyou.cn</p>
+<p>菜鸟教程：<br>
+非常好用的教程网站<br>
+https://www.runoob.com/</p>
+<p>果核剥壳：<br>
+破解软件下载<br>
+https://www.ghpym.com/</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wcg03.github.io/post/hello-gridea/</id>
